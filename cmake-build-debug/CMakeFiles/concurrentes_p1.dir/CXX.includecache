@@ -1,0 +1,138 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/DetalleDePartidos.cpp
+DetalleDePartidos.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/DetalleDePartidos.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/DetalleDePartidos.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Marea.cpp
+Marea.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Marea.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Marea.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Pareja.cpp
+Pareja.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Pareja.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Pareja.h
+Participante.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Participante.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Participante.cpp
+Participante.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Participante.h
+cstring
+-
+cstdlib
+-
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Participante.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/ParticipanteFactory.cpp
+ParticipanteFactory.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/ParticipanteFactory.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/ParticipanteFactory.h
+Participante.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Participante.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Predio.cpp
+Predio.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Predio.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Predio.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Resultados.cpp
+Resultados.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Resultados.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Resultados.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Torneo.cpp
+Torneo.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Torneo.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Torneo.h
+set
+-
+iostream
+-
+Participante.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Participante.h
+Pareja.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Pareja.h
+DetalleDePartidos.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/DetalleDePartidos.h
+Resultados.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Resultados.h
+Marea.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Marea.h
+Predio.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Predio.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/main.cpp
+iostream
+-
+string
+-
+main/MainProcess.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/main/MainProcess.h
+Model/Torneo.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/Torneo.h
+Model/ParticipanteFactory.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/Model/ParticipanteFactory.h
+utils/logger/Logger.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/logger/Logger.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/main/MainProcess.cpp
+MainProcess.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/main/MainProcess.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/main/MainProcess.h
+string
+-
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/ipc/lock/LockFile.cpp
+LockFile.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/ipc/lock/LockFile.h
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/ipc/lock/LockFile.h
+unistd.h
+-
+fcntl.h
+-
+string
+-
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/logger/Logger.cpp
+Logger.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/logger/Logger.h
+fstream
+-
+ctime
+-
+sys/time.h
+-
+errno.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/logger/errno.h
+string.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/logger/string.h
+../ipc/lock/LockFile.h
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/ipc/lock/LockFile.h
+iostream
+-
+
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/code/utils/logger/Logger.h
+string
+-
+sstream
+-
+

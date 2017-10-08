@@ -1,0 +1,3 @@
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fedelonghi/Facultad/Tecnicas de Prgramacion Concurrente I/Proyecto/concurrentes_p1/cmake-build-debug/CMakeFiles/concurrentes_p1.dir
